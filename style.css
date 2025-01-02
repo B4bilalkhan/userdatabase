@@ -1,0 +1,63 @@
+.user-table {
+    width: 80%;
+    margin: 80px auto;
+    border-collapse: collapse;
+    font-family: Arial, sans-serif;
+    align-items: center; 
+    justify-content: center;
+}
+
+.table-heading {
+    background-color: #50db10;
+    color: white;
+    font-size: 24px;
+    font-weight: bold;
+    padding: 15px 60px; 
+    text-align: center;
+    border-radius: 30px; 
+}
+
+.user-table th, .user-table td {
+    border: 1px solid #ddd;
+    padding: 10px;
+    text-align: center;
+}
+
+.user-table th {
+    color: rgb(77, 185, 77);
+    font-size: 16px;
+    font-weight: bold;
+    font-size: 30px;
+}
+
+.info th {
+    font-size: 16px; 
+}
+
+.alt-row {
+    background-color: rgb(44, 236, 44);
+}
+
+.profile-img {
+    width: 50px;
+    height: 50px;
+    border-radius: 50%;
+}
+
+.view-btn {
+    background-color: #4CAF50;
+    color: white;
+    border: none;
+    padding: 8px 12px;
+    cursor: pointer;
+    border-radius: 5px;
+    font-size: 14px;
+}
+
+.view-btn:hover {
+    background-color: #45a049;
+}
+
+.color {
+    background-color: green;
+}
